@@ -45,4 +45,4 @@ for filename in os.listdir('.'):
 #TODO: Check if file image needs to be
 #TODO: Calculate the new width and height to resize to.
 #TODO: Add the logo.
-#TODO: Save changes.
+#TODO: Save changes..
