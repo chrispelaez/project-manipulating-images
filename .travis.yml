@@ -1,7 +1,7 @@
 language: python
 python:
-  - "3.5"
+  - "3.5.1"
 install:
   - pip install pytest
-  - pip install pillow
+  - pip install Pillow
 script: py.test -v
